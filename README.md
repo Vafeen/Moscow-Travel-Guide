@@ -1,3 +1,3 @@
 # Moscow-Travel-Guide
 
-[Регистрация программы.pdf](https://github.com/user-attachments/files/17161225/default.pdf)
+![Регистрация программы]([example.com/logo.png](https://github.com/danillip/Moscow-Travel-Guide/blob/main/License.jpg))
