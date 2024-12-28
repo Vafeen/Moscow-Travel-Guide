@@ -1,3 +1,5 @@
 # Moscow-Travel-Guide
 
-![Регистрация программы](License.jpg)
+Project for task: to make a program with using knowledge Discrete Math such as Graphs and some algorithms
+
+![Registration](License.jpg)
