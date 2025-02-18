@@ -2,4 +2,4 @@
 
 Project for task: to make a program with using knowledge Discrete Math such as Graphs and some algorithms
 
-![Registration](License.jpg)
+![Registration](Registration.jpg)
